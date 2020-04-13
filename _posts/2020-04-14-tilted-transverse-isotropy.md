@@ -11,6 +11,7 @@ In March 2020, I came across a colleague posting something interesting about ani
 <div>
 <img src="https://user-images.githubusercontent.com/51282928/79143678-dc96a900-7de7-11ea-8d8c-20d64d8d803d.jpeg" width="600"/>
 </div>
+
 <sub>These 10-page notes on brown papers were my first encounter in anisotropy</sub><br>
 
 At first, I read at least 5 references about anisotropy, the most influential one is from Gary Mavko's epic **The Rock Physics Handbook** that appeared to me just like an encyclopedia of rock physics, because it is so complete. I began to write down formulations on brown papers and tried to find out connections from one concept to another. I started to be interested! 
