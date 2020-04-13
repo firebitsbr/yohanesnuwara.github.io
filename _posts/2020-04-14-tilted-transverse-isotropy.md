@@ -15,3 +15,5 @@ In March 2020, I came across a colleague posting something interesting about ani
 <sub>These 10-page notes on brown papers were my first encounter in anisotropy</sub><br>
 
 At first, I read at least 5 references about anisotropy, the most influential one is from Gary Mavko's epic **The Rock Physics Handbook** that appeared to me just like an encyclopedia of rock physics, because it is so complete. I began to write down formulations on brown papers and tried to find out connections from one concept to another. I started to be interested! 
+
+There are several types of anisotropy. The first class is **transverse isotropy**, which is classified into three types depending on the orientation of anisotropy, namely **vertical transverse isotropy** (VTI), **horizontal transverse isotropy** (HTI), and **tilted transverse isotropy** (TTI). The anisotropy orientation in VTI is perpendicular to X axis (horizontally-oriented), in HTI is perpendicular to X axis (vertically-oriented), and in TTI, the orientation makes an angle or tilt to X axis. This angle is commonly familiar to us as the **dip** of bedding plane.  
