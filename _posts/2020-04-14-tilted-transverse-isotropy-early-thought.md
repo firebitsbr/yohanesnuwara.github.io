@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tilted Transverse Isotropy"
+title: "Tilted Transverse Isotropy: An Early Thought"
 date: 2020-04-14
 ---
 
