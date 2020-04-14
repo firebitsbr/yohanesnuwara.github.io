@@ -34,4 +34,10 @@ I can write a stiffness of any rock given in 6x6 matrix (actually a fourth-order
 
 <img src="https://bit.ly/3ejUTWL" align="center" border="0" alt="C_{ij}=\begin{bmatrix} C_{11} & C_{12} & C_{13} & C_{14} & C_{15} & C_{16} \\ C_{21} & C_{22} & C_{23} & C_{24} & C_{25} & C_{26} \\ C_{31} & C_{32} & C_{33} & C_{34} & C_{35} & C_{36} \\ C_{41} & C_{42} & C_{43} & C_{44} & C_{45} & C_{46} \\ C_{51} & C_{52} & C_{53} & C_{54} & C_{55} & C_{56} \\ C_{61} & C_{62} & C_{63} & C_{64} & C_{65} & C_{66} \end{bmatrix}" width="314" height="118">
 
-What is amazing of this matrix is that when we invert the matrix, we will get **the moduli of the rock**, namely the **Young's modulus**, **Shear modulus**, and **Poisson's ratio**! During the 4 years in the university back then, I only acknowledged that 
+What is amazing of this matrix is that when we invert the matrix, we will get **the moduli of the rock**, namely the **Young's modulus**, **Shear modulus**, and **Poisson's ratio**! During the 4 years in the university back then, I only acknowledged that these 3 moduli is similar to all directions.
+
+Young's modulus: <img src="https://bit.ly/34FkWmT" align="center" border="0" alt="E_x = E_y = E_z" width="104" height="21" />
+
+Shear modulus: <img src="https://bit.ly/34ARBtR" align="center" border="0" alt="G_x = G_y = G_z" width="111" height="21" />
+
+Poisson's ratio: <img src="https://bit.ly/2Xy4rYj" align="center" border="0" alt="\nu_x = \nu_y = \nu_z" width="106" height="18" />
