@@ -41,3 +41,11 @@ Young's modulus: <img src="https://bit.ly/34FkWmT" align="center" border="0" alt
 Shear modulus: <img src="https://bit.ly/34ARBtR" align="center" border="0" alt="G_x = G_y = G_z" width="111" height="21" />
 
 Poisson's ratio: <img src="https://bit.ly/2Xy4rYj" align="center" border="0" alt="\nu_x = \nu_y = \nu_z" width="106" height="18" />
+
+However, it is not, because rock is not always isotropic. Therefore,
+
+Young's modulus: <img src="https://bit.ly/2RwNSYU" align="center" border="0" alt="E_x \neq E_y \neq E_z" width="104" height="21" />
+
+Shear modulus: <img src="https://bit.ly/2K4BNWU" align="center" border="0" alt="G_x \neq G_y \neq G_z" width="112" height="21" />
+
+Poisson's ratio: <img src="https://bit.ly/2wANd1h" align="center" border="0" alt="\nu_x \neq \nu_y \neq \nu_z" width="107" height="21" />
