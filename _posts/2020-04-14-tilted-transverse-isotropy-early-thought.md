@@ -22,8 +22,16 @@ There are several types of anisotropy. The first class is **transverse isotropy*
 <img src="https://user-images.githubusercontent.com/51282928/79189010-cd951280-7e4a-11ea-9f1a-066d16349045.jpeg" width="400"/>
 </div>
 
-<sub>Core I took from university about 3 years earlier</sub>
+<sub>2-inch core I took from university about 3 years earlier</sub>
 
 Suddenly I remembered that I had a core sample at home. The picture that I showed you above is the core that I obtained from my university 3 years earlier. This core has a laminated coal (the black masseral) and shale (the brown mineral) sequence. I thought this were going to be a perfect representation of a TTI-type anisotropy! 
 
 Back to rock physics. To me, rock physics is a **study** of **simplifying a rock into a certain rock model** that treats a rock as composed of the grain/mineral and inclusion (can be either cracks, mineral inclusion, or fluid). It is a simple as that. I have read from Mavko's book about 2 anisotropy models. The first model, **crack model** has two proposed model, by Eshelby (1957) and Hudson (1980), then perfected by Cheng (1993). The second model, **Backus model**, caught my intention!
+
+In 1962, **George Backus** published a [paper](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/JZ067i011p04427) *Long‐wave elastic anisotropy produced by horizontal layering*. In his paper, he proposed that a rock composed of intercalating lamination of different lithologies (such as sand-shale, coal-shale, etc) is anisotropic, therefore **the anisotropy parameters can be computed by averaging the individual isotropic layers**. Because the core sample that I had at home was in fact also intercalation of two different lithologies (coal-shale), therefore I thought I could compute **its anisotropy parameters** using this method. Then, I decided to do so.
+
+I can write a stiffness of any rock given in 6x6 matrix (actually a fourth-order tensor) given as follows.
+
+<img src="https://bit.ly/3ejUTWL" align="center" border="0" alt="C_{ij}=\begin{bmatrix} C_{11} & C_{12} & C_{13} & C_{14} & C_{15} & C_{16} \\ C_{21} & C_{22} & C_{23} & C_{24} & C_{25} & C_{26} \\ C_{31} & C_{32} & C_{33} & C_{34} & C_{35} & C_{36} \\ C_{41} & C_{42} & C_{43} & C_{44} & C_{45} & C_{46} \\ C_{51} & C_{52} & C_{53} & C_{54} & C_{55} & C_{56} \\ C_{61} & C_{62} & C_{63} & C_{64} & C_{65} & C_{66} \end{bmatrix}" width="314" height="118">
+
+What is amazing of this matrix is that when we invert the matrix, we will get **the moduli of the rock**, namely the **Young's modulus**, **Shear modulus**, and **Poisson's ratio**! During the 4 years in the university back then, I only acknowledged that 
