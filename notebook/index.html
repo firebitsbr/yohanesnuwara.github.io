@@ -5,8 +5,8 @@ title: My Daily Notebook
 <h1>{{ page.title }}</h1>
 <ul class="notebooks">
 
-  {% for post in site.notebooks %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+  {% for notebook in site.notebooks %}
+    <li><span>{{ notebook.date | date_to_string }}</span> &raquo; <a href="{{ notebook.url }}" title="{{ notebook.title }}">{{ notebook.title }}</a></li>
   {% endfor %}
     
 </ul>
